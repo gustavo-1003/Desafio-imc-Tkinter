@@ -1,2 +1,2 @@
 # Desafio.
-## 🛠️Tecnologias utilizadas:  > Editor de código Linguagens Bibliotecas >
+## 🛠️Tecnologias utilizadas: Python > Editor de código Linguagens Bibliotecas > tkinter
